@@ -34,7 +34,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "msal": "0.2.1",
+    "msal": "git+https://github.com/sanjay900/msal-consent-2.git#a460945a7bb2bcb9c8e1f953bcaacd53578fc102",
     "tslib": "1.7.1"
   },
   "deprecated": false,
